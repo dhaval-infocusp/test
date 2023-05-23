@@ -10,4 +10,4 @@ darwin-py==0.8.12
 google-cloud-firestore==2.7.2
 google-cloud-pubsub==2.14.0
 google-cloud-storage==2.7.0
-requests==2.28.1
+requests==2.31.0
