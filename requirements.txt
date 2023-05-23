@@ -6,7 +6,7 @@ pylint
 pytest
 pytest-cov
 pytest-mock
-darwin-py==0.8.12
+darwin-py==0.8.25
 google-cloud-firestore==2.7.2
 google-cloud-pubsub==2.14.0
 google-cloud-storage==2.7.0
